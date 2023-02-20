@@ -6,19 +6,16 @@
 <a href="https://twitter.com/idevapps_pro">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/your_profile">
+<a href="https://www.linkedin.com/in/arturkhaybullin">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/your_profile">
+<a href="https://t.me/idevapps">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/your_profile">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
 
-Привет, меня зовут ВАШЕ ИМЯ, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+<p>Привет, меня зовут Артур Хайбуллин, я студент курса Слёрм . Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.</p>
 
 <br />
 
